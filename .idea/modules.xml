@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MockDb/MockDb.iml" filepath="$PROJECT_DIR$/MockDb/MockDb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/mockDb.iml" filepath="$PROJECT_DIR$/.idea/mockDb.iml" />
+    </modules>
+  </component>
+</project>
